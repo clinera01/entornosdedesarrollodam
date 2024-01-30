@@ -17,5 +17,12 @@
             <li>nuevo entrenador del FC BARCELONA</li>
             <li>LA ETA MASONA</li>
         </ol>
+
+        <table>
+            <th>
+                <td>hola</td>
+                <td>hola</td>
+            </th>
+        </table>
     </body>
 </html>
